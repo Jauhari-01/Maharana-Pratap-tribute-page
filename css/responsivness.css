@@ -1,0 +1,23 @@
+@media screen and (max-width: 510px) {
+    
+    #img-div {
+        width: 70%;
+    }
+    #image{
+        width: 70%;
+    }
+  }
+
+  @media screen and (max-width: 300px) {
+    
+    #title{
+        font-size: 55%;
+    }
+  }
+  
+  @media screen and (max-width: 152px) {
+    
+    #title{
+        font-size: 30%;
+    }
+  }
